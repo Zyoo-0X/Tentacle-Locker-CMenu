@@ -1,8 +1,10 @@
 # Tentacle-Locker-CMenu
+Tentacle Locker Lovecraft
 <img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/c822f7c2-503c-4873-8d1d-53011621a246" />
 
 
-I Not Supported Cheating
+# I Not Supported Cheating
+
 
 Use GDRE And Godot 3.6
 
