@@ -14,7 +14,7 @@ A simple custom menu mod for **Tentacle Locker Lovecraft**.
 
 ---
 
-## Tools Required
+## Tools Used
 
 * **Game:** [Tentacle Locker Lovecraft](https://strange-girl-studios.itch.io/tentacle-locker-lovecraft)
 * **Engine:** [Godot 3.6 Stable](https://godotengine.org/download/archive/3.6-stable/)
