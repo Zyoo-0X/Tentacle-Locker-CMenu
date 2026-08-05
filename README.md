@@ -6,23 +6,14 @@ A simple custom menu mod for **Tentacle Locker Lovecraft**.
 
 ---
 
-## 🚫 Disclaimer
+## Disclaimer
 * **No Game Files Included:** You must supply and compress your own game files.
 * **No Cheating:** This tool is strictly for personal modding and learning purposes.
 
 ---
 
-## 🛠️ Tools Required
+## Tools Used
 
 * **Game:** [Tentacle Locker Lovecraft](https://strange-girl-studios.itch.io/tentacle-locker-lovecraft)
 * **Engine:** [Godot 3.6 Stable](https://godotengine.org/download/archive/3.6-stable/)
 * **Decompiler:** [GDRE Tools](https://github.com/GDRETools/gdsdecomp)
-
----
-
-## 💡 Quick Start
-
-1. Download the original game files.
-2. Use **GDRE Tools** to decompile the `.pck` / executable file.
-3. Open and edit the project using **Godot 3.6**.
-4. Pack your own modified files.
