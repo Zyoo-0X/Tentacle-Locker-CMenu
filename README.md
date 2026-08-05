@@ -1,8 +1,11 @@
 # Tentacle Locker - CMenu
 
-<img src="https://github.com/user-attachments/assets/c822f7c2-503c-4873-8d1d-53011621a246" width="100" height="100" alt="icon">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c822f7c2-503c-4873-8d1d-53011621a246" width="100" height="100" alt="icon" />
+  <img src="https://github.com/user-attachments/assets/37c9b683-cb94-484d-867e-ac507cd28c41" width="400" height="300" alt="Lovecraft Locker- Tentacle Lust" />
+</p>
 
-A simple custom menu mod for **Tentacle Locker Lovecraft**.
+A simple custom menu mod / dev menu for **Tentacle Locker Lovecraft**.
 
 ---
 
