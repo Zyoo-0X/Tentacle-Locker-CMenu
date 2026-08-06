@@ -9,6 +9,7 @@ A simple custom menu mod for **Tentacle Locker Lovecraft**.
 ---
 
 ## Disclaimer
+* **An 18+ Game!
 * **No Game Files Included:** You must supply and compress your own game files.
 * **No Cheating:** This tool is strictly for personal modding and learning purposes.
 
